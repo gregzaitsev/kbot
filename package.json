@@ -1,0 +1,23 @@
+{
+  "name": "k_bot",
+  "version": "1.0.0",
+  "description": "The js bot for babbling",
+  "main": "kbot.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gregzaitsev/kbot.git"
+  },
+  "keywords": [],
+  "author": "Katya Zaytseva",
+  "license": "ISC",
+  "bugs": {},
+  "homepage": "https://github.com/gregzaitsev/kbot",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "dotenv": "^8.2.0",
+    "telegraf": "^3.38.0"
+  }
+}
